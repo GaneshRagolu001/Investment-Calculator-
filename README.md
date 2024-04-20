@@ -1,4 +1,4 @@
-Sure! Here's a detailed description for an investment calculator website created using React for the GitHub repository:
+
 
 ---
 
